@@ -9,7 +9,7 @@ Top-level index containing one-liner beliefs.
 -   We're not the last stop in the evolutionary chain (unless we destroy ourselves), we're just another step, another cog, as genes continue to propagate
 
 
-# On perspectives
+# On Perspectives
 
 -   Time boundaries are mental shortcuts, lot of times we don't have to conform to them
 -   Analysis Paralysis and Perfectionism are one of the worst ways we stop ourselves from achieving what we set out to achieve
